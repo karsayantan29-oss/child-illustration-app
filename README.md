@@ -24,6 +24,9 @@ A Next.js application that transforms children's photos into personalized illust
 - **Formidable**: Multipart form data handling
 - **Sharp**: Image processing (optional)
 
+# Force Vercel to rebuild at 2025-12-19
+
+
 ### AI Pipeline
 Multiple AI service options:
 
