@@ -185,6 +185,7 @@ export async function detectAndExtractFace(
   // Example structure:
   return {
     face: 'base64_of_extracted_face',
-    bbox: [x, y, width, height],
+    bbox: [0, 0, 100, 100],
+
   }
 }
