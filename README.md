@@ -292,13 +292,5 @@ MIT License - feel free to use for personal or commercial projects
 - UI components styled with Tailwind CSS
 - Icons and design inspiration from modern UI/UX patterns
 
-## 📞 Support
-
-For issues or questions:
-- Check the troubleshooting section
-- Review Replicate/fal.ai documentation
-- Open an issue on GitHub
-
----
 
 **Made with ❤️ for creating magical memories**
